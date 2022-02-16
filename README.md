@@ -1,27 +1,20 @@
-Project: Lemonade App - Starter Code
-==================================
+<h1 align="center">Lemonade App</h1>
 
-Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+<p align="center">This app simulates making lemonade. With each click you advance one step. First, you select the lemon from the tree. Then, you squeeze the lemon (random clicks needed). Finally, you drink the lemonade and you can restart.</p>
 
-Introduction
-------------
+<h1 align="center">
+  <img alt="LemonadeApp" title="#LemonadeApp" src="https://user-images.githubusercontent.com/40619402/154289132-7e51c1f3-1766-4f8e-98e6-600f4645f32c.gif" width="320"/>
+</h1>
 
-This is the starter code for the Lemonade app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-four) of Android Basics [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
+### Topics studied in this app:
+- <a href="https://developer.android.com/courses/android-basics-kotlin/unit-1">Unit 1: Kotlin basics</a>
+  - Build your first Android apps with the Kotlin programming language. Add images and text to your Android apps, and learn how to use classes, objects, and conditionals to create an interactive app for your users.
 
-Pre-requisites
---------------
 
-- Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
 
-Getting Started
----------------
+### Based on the codelabs:
+- <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade">Project: Lemonade app</a>
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
 
-Tips
-----
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+
